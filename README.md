@@ -1,6 +1,6 @@
 <div align="center">
 <h1 size="7"> Bem vindo ao meu GitHub! </h1>
-  <img height="180em" src="public/header.png"/>
+  <img height="520em" src="public/header.png"/>
 </div>
 
 <div align="center">
